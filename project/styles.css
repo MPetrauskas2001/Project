@@ -1,0 +1,138 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+    background-image: url("https://i.natgeofe.com/n/d711f6ce-2d1d-496f-a151-7c753c7774c7/13333.jpg");
+    background-size: cover;
+    background-color: #c4e9c4;
+    opacity: 70%;
+    min-height: 70%;
+    border: solid 1px;
+
+}
+
+.w3-bar .w3-button {
+    padding: 16px;
+}
+.w3-grey {
+    opacity: 80%;
+}
+#headertxt{
+  text-shadow: #1a1a1a;
+    padding-bottom: 10px;
+    color: #ffffff;
+}
+#smallerheadertxt{
+    padding-left: 650px;
+}
+#promosec1 {
+    opacity: 35%;
+    background-color: #586460;
+    color: #ffffff;
+}
+#pricing {
+    background-image: url("https://cdn.wallpapersafari.com/72/96/uKJQLT.jpg");
+}
+#contact{
+    background-color: #c5d7d7;
+}
+#envelopeicon {
+    margin-left: 600px;
+    margin-right: auto;
+    width: 8em
+}
+.footer-basic {
+    padding:40px 0;
+    background-color:#ffffff;
+    color:#4b4c4d;
+}
+
+.footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+}
+
+.footer-basic li {
+    padding:0 10px;
+}
+
+.footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+}
+
+.footer-basic ul a:hover {
+    opacity:1;
+}
+
+.footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+}
+
+.footer-basic .social > a:hover {
+    opacity:0.9;
+}
+
+.footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+}
+#tothetop{
+    text-align: center;
+    padding-left: 500px;
+}
+#text{
+    height: 25px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin #aaa;
+    width: 100%;
+}
+#button{
+    padding: 10px;
+    width: 100px;
+    color: white;
+    background-color: lightblue;
+    border: none;
+}
+#box{
+    background-color: #ca8383;
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+}
+#logoutbtn {
+}
+
+#logoutbtn {
+    padding-right: 500px;
+    justify-content: center;
+    color: #00fa00;
+}
